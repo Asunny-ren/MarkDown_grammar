@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35016380-c500-42cc-a91c-34700d5642ae" name="Default" comment="" />
+    <list default="true" id="35016380-c500-42cc-a91c-34700d5642ae" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MarkDown.md" afterPath="$PROJECT_DIR$/MarkDown.md" />
+    </list>
     <ignored path="MarkDown_grammar.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +27,8 @@
         <entry file="file://$PROJECT_DIR$/MarkDown.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state>
-              <first_editor vertical-scroll-proportion="0.7326733">
-                <caret line="78" column="44" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
+              <first_editor vertical-scroll-proportion="0.42079207">
+                <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -154,8 +156,8 @@
     <entry file="file://$PROJECT_DIR$/MarkDown.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state>
-          <first_editor vertical-scroll-proportion="0.7326733">
-            <caret line="78" column="44" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
+          <first_editor vertical-scroll-proportion="0.42079207">
+            <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
